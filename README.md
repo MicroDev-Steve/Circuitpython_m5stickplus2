@@ -16,8 +16,9 @@ This repository contains the CircuitPython firmware and example code for the M5S
 2. Follow the instructions to flash the firmware onto your device.
 3. Copy the example files from this repository to the root directory of your M5Stick Plus 2.
 4. For a step-by-step installation guide, watch the following videos:
-   - [Installation Video for Linux](https://www.youtube.com/watch?v=NayzkLinydw)
-   - [Installation Video for Windows](https://www.youtube.com/watch?v=9RkhAnBYFF0)
+
+   [![Installation Video for Linux](https://img.youtube.com/vi/NayzkLinydw/0.jpg)](https://www.youtube.com/watch?v=NayzkLinydw)
+   [![Installation Video for Windows](https://img.youtube.com/vi/9RkhAnBYFF0/0.jpg)](https://www.youtube.com/watch?v=9RkhAnBYFF0)
 
 ### Example Code
 
