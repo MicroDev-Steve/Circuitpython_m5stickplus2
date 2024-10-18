@@ -15,6 +15,9 @@ This repository contains the CircuitPython firmware and example code for the M5S
 1. Download the latest CircuitPython firmware for the M5Stick Plus 2 from the [CircuitPython website](https://circuitpython.org).
 2. Follow the instructions to flash the firmware onto your device.
 3. Copy the example files from this repository to the root directory of your M5Stick Plus 2.
+4. For a step-by-step installation guide, watch the following videos:
+   - [Installation Video for Linux](https://www.youtube.com/watch?v=NayzkLinydw)
+   - [Installation Video for Windows](https://www.youtube.com/watch?v=9RkhAnBYFF0)
 
 ### Example Code
 
@@ -33,7 +36,6 @@ Check out my YouTube channel for tutorials and projects using the M5Stick Plus 2
 ## Licensing
 
 This project incorporates open-source components. However, the original code and contributions made by me are licensed under a proprietary license. You may not use, reproduce, modify, or distribute this software without express written permission.
-
 
 ## License
 
