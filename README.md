@@ -36,7 +36,7 @@ Check out my YouTube channel for tutorials and projects using the M5Stick Plus 2
 
 ## Licensing
 
-This project incorporates open-source components. However, the original code and contributions made by me are licensed under a proprietary license. You may not use, reproduce, modify, or distribute this software without express written permission.
+This project incorporates open-source components. However, the original code and contributions made by me are licensed under a proprietary license. You may not use, reproduce, modify, or distribute this software without express written permission. In short, please do not re-list or sell my work. Personal use is permitted.
 
 ## License
 
