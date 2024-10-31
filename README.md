@@ -41,3 +41,8 @@ This project incorporates open-source components. However, the original code and
 ## License
 
 This project is licensed under a proprietary license, and all rights are reserved.
+
+## Support
+
+If you like to help me out click on the amazon link below next time you plan to buy anything. 
+M5StickC TPU Guard https://amzn.to/3YIqnPr
